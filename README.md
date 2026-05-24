@@ -1,27 +1,28 @@
 ## 👋 Hi, I'm Harry!
 
-🚀 I'm a passionate **Data Analyst** with a love for coding, problem-solving, and continuous learning.
+**Power Platform Consultant** specialising in PPM and Planner Premium solutions, now deepening
+into pro-code development to build richer, more capable solutions.
+
+I deliver enterprise solutions across the Microsoft Power Platform — Power Apps, Power Automate,
+Power BI and Dataverse — and I'm extending that low-code foundation with real pro-code skills:
+JavaScript, TypeScript and C#. This profile documents that journey, from low-code consultant to
+a developer who can extend the platform wherever the out-of-the-box tools run out.
 
 ### 🛠️ Technologies & Tools
-- **Languages:** Python, R, SQL 
-- **Tools:** Git, Docker, VS Code, Power BI
+- **Power Platform:** Power Apps, Power Automate, Power BI, Dataverse
+- **Languages:** C#, JavaScript, TypeScript, Python, SQL
+- **Tools:** Git, VS Code, Power Platform CLI
 
 ### 🌱 What I'm Learning
-I'm currently diving into **Python and Machine Learning** and **Cloud Computing**. Always excited to explore new technologies and grow my skillset!
+Building my JavaScript and TypeScript fundamentals toward **Power Apps Component Framework (PCF)**
+controls and **Dataverse plug-ins**, and working toward the **PL-400 (Power Platform Developer)**
+certification. Always learning, always building.
 
 ### 📫 How to Reach Me
-- 🌐 [Portfolio](https://harryfarmer.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/harry-farmer/)
-
----
-
-⭐️ Feel free to explore my repositories and let's collaborate on exciting projects!
+- 🌐 [Portfolio](https://harryfarmer.github.io/)
 
 ---
 
 ### 📈 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=harryfarmer&show_icons=true&theme=radical)
-<!---
-eat-sleep-code-repeat100/eat-sleep-code-repeat100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarryFarmer&show_icons=true&theme=radical)
