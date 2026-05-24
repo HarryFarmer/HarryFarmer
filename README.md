@@ -10,7 +10,7 @@ a developer who can extend the platform wherever the out-of-the-box tools run ou
 
 ### 🛠️ Technologies & Tools
 - **Power Platform:** Power Apps, Power Automate, Power BI, Dataverse
-- **Languages:** C#, JavaScript, TypeScript, Python, SQL
+- **Languages:** C#, JavaScript, TypeScript
 - **Tools:** Git, VS Code, Power Platform CLI
 
 ### 🌱 What I'm Learning
@@ -20,9 +20,3 @@ certification. Always learning, always building.
 
 ### 📫 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/harry-farmer/)
-- 🌐 [Portfolio](https://harryfarmer.github.io/)
-
----
-
-### 📈 My GitHub Stats
-![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarryFarmer&show_icons=true&theme=radical)
